@@ -1,0 +1,27 @@
+.box_produto{
+    margin-top: 50px;
+    display:inline-block;
+    text-align: center;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+
+.box_produto p {
+    width: 320px;
+    
+}
+
+img.itens {
+    width: 120px;
+    cursor: pointer;
+}
+
+ul, li {
+    padding-left: 10px;
+}
+
+.categorias {
+    position: absolute;
+    cursor: pointer;
+}

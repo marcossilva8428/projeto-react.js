@@ -1,0 +1,9 @@
+.imgPagamentos {
+    width: 25%;
+}
+
+.divPagamentos {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
